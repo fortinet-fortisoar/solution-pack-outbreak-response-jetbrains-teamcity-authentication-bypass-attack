@@ -11,6 +11,8 @@ Multiple Threat actors seen exploiting the authentication bypass flaw in **JetBr
 
 The **Outbreak Response JetBrains Authentication Bypass Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/1.0.0/README.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*, *QRadar*, *Splunk*, and *Azure Log Analytics*.
 
+The **Outbreak Response JetBrains Authentication Bypass Attack** Outbreak Alert and it's detailed information can be found on [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/jetbrains-teamcity-rce).
+
 ## Background
 TeamCity is a continuous integration/continuous deployment (CI/CD) application used by organizations for DevOps and other software development activities. Software developers use TeamCity software to manage and automate software compilation, building, testing, and releasing.
 
