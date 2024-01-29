@@ -4,7 +4,7 @@
 # Installation
 
 1. To install a solution pack, click **Content Hub** > **Discover**.
-2. From the list of solution pack that appears, search for and select **Outbreak Response - JetBrains TeamCity Authentication Bypass Attack**.
+2. From the list of solution pack that appears, search for **Outbreak Response - JetBrains TeamCity Authentication Bypass Attack**.
 3. Click the **Outbreak Response - JetBrains TeamCity Authentication Bypass Attack** solution pack card.
 4. Click **Install** on the lower part of the screen to begin the installation.
 
